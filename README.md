@@ -167,7 +167,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
   2. Examples for proper attestation:
   New feature example
   ```python
-  ##> ------ Vinayraj Cheekoti : knoxrover - Feature ------
+  ##> ------ Vinayraj Cheekoti : godsscion - Feature ------
   def alert_box(title: str, message: str) -> None:
     '''
     Shows an alert box with the given `title` and `message`.
@@ -186,7 +186,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
     '''
     from pyautogui import alert
 
-  ##> ------ Vinayraj Cheekoti : vinayrajcheekoti1@gmail.com - Bug fix ------
+  ##> ------ Vinayraj Cheekoti : saivigneshgolla@outlook.com - Bug fix ------
     return alert(message, title)
   ##<
   ```
@@ -382,7 +382,7 @@ Please consider the following:
 
 ## ⚖️ License
 
-Copyright (C) 2024 Vinayraj Cheekoti  <vinayrajcheekoti1@gmail.com>
+Copyright (C) 2024 Vinayraj Cheekoti  <saivigneshgolla@outlook.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
