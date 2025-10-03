@@ -3,7 +3,7 @@ Author:     Vinayraj Cheekoti
 LinkedIn:   https://www.linkedin.com/in/vinayrajcheekoti/
 '''
 Author:     Vinayraj Cheekoti
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+LinkedIn:   https://www.linkedin.com/in/vinayrajcheekoti/
 
 Copyright (C) 2024 Vinayraj Cheekoti
 

@@ -167,7 +167,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
   2. Examples for proper attestation:
   New feature example
   ```python
-  ##> ------ Vinayraj Cheekoti : godsscion - Feature ------
+  ##> ------ Vinayraj Cheekoti : knoxrover - Feature ------
   def alert_box(title: str, message: str) -> None:
     '''
     Shows an alert box with the given `title` and `message`.
@@ -186,7 +186,7 @@ Once your code is tested, your changes will be merged to the `main` branch in ne
     '''
     from pyautogui import alert
 
-  ##> ------ Vinayraj Cheekoti : saivigneshgolla@outlook.com - Bug fix ------
+  ##> ------ Vinayraj Cheekoti : vinayrajcheekoti@outlook.com - Bug fix ------
     return alert(message, title)
   ##<
   ```
@@ -269,15 +269,15 @@ As you continue your job search, I hope this tool has provided you with valuable
 
 To continue improving and maintaining this tool, I rely on the support of users like you. If you believe in its mission and want to contribute, you can support me by sharing about this project with your peers and network.
 
-If you need a post to communicate about it: https://www.linkedin.com/posts/saivigneshgolla_jobsearch-jobapplication-careerdevelopment-activity-7166416367628341249-WE_8
+If you need a post to communicate about it: https://www.linkedin.com/posts/vinayrajcheekoti_jobsearch-jobapplication-careerdevelopment-activity-7166416367628341249-WE_8
 
 By doing so, you can empower others in their job hunt, just as you've been empowered.. Every contribution, big or small, makes a significant impact!
 
 As an independent developer, I pour my heart and soul into creating tools like this, driven by the genuine desire to make a positive impact. Your support, whether through donations or simply spreading the word, means the world to me and helps keep this project alive and thriving.
 
 You can connect and reach me out at:
-- LinkedIn  :  https://www.linkedin.com/in/saivigneshgolla/
-- Email     :  saivigneshgolla@outlook.com
+- LinkedIn  :  https://www.linkedin.com/in/vinayrajcheekoti/
+- Email     :  vinayrajcheekoti@outlook.com
 
 <br>
 
@@ -382,7 +382,7 @@ Please consider the following:
 
 ## ⚖️ License
 
-Copyright (C) 2024 Vinayraj Cheekoti  <saivigneshgolla@outlook.com>
+Copyright (C) 2024 Vinayraj Cheekoti  <vinayrajcheekoti@outlook.com>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
@@ -400,23 +400,23 @@ See [AGPLv3 LICENSE](LICENSE) for more info.
 <br>
 
 ## 🐧 Socials
-- **LinkedIn** : https://www.linkedin.com/in/saivigneshgolla/
-- **Email**    : saivigneshgolla@outlook.com
+- **LinkedIn** : https://www.linkedin.com/in/vinayrajcheekoti/
+- **Email**    : vinayrajcheekoti@outlook.com
 - **X/Twitter**: https://x.com/gods_scion
-- **Discord**  : godsscion
+- **Discord**  : knoxrover
 
 
 ## 🙌 Community Support and Discussions
 - **Discord Server** : https://discord.gg/fFp7uUzWCY
 alternate link: https://discord.gg/ykfDjRFB
 - **GitHub**
-    - [All Discussions](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions)
-    - [Announcements](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/announcements)
-    - [General](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/general)
-    - [Feature requests or Ideas](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/feature-requests-or-ideas)
-    - [Polls](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/polls)
-    - [Community Flex](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/community-flex)
-    - [Support Q&A](https://github.com/GodsScion/Auto_job_applier_linkedIn/discussions/categories/support-q-a)
+  - [All Discussions](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions)
+  - [Announcements](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/announcements)
+  - [General](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/general)
+  - [Feature requests or Ideas](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/feature-requests-or-ideas)
+  - [Polls](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/polls)
+  - [Community Flex](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/community-flex)
+  - [Support Q&A](https://github.com/Knoxrover/ImTiredOfJustApplying/discussions/categories/support-q-a)
 
 
 #### ℹ️ Version: 25.07.20.9.30 Community Alpha
