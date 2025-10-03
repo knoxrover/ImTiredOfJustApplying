@@ -1,6 +1,6 @@
 '''
 Author:     Vinayraj Cheekoti
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+LinkedIn:   https://www.linkedin.com/in/vinayrajcheekoti/
 
 Copyright (C) 2024 Vinayraj Cheekoti
 
@@ -280,6 +280,6 @@ As an independent developer, I pour my heart and soul into creating tools like t
 Your support, whether through donations big or small or simply spreading the word, means the world to me and helps keep this project alive and thriving.
 
 Gratefully yours 🙏🏻,
-Sai Vignesh Golla
+Vinayraj Cheekoti
 '''
 ############################################################################################################
