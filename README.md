@@ -1,9 +1,13 @@
-# LinkedIn AI Auto Job Applier 🤖
+# ImTiredOfJustApplying 🤖
+[![ImTiredOfJustApplying demo video](https://github.com/Knoxrover/ImTriedOfJustApplying/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
+4. Clone the current git repo or download it as a zip file, url to the latest update https://github.com/Knoxrover/ImTiredOfJustApplying.
+For the latest Terms & Conditions, Licenses, or Policies, please refer to [ImTiredOfJustApplying](https://github.com/Knoxrover/ImTiredOfJustApplying).
+# ImTriedOfJustApplying 🤖
 This is an web scraping bot that automates the process of job applications on LinkedIn. It searches for jobs relevant to you, answers all questions in application form, customizes your resume based on the collected job information, such as skills required, description, about company, etc. and applies to the job. Can apply 100+ jobs in less than 1 hour. 
 
 
 ## 📽️ See it in Action
-[![Auto Job Applier demo video](https://github.com/GodsScion/Auto_job_applier_linkedIn/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
+[![ImTriedOfJustApplying demo video](https://github.com/Knoxrover/ImTriedOfJustApplying/assets/100998531/429f7753-ebb0-499b-bc5e-5b4ee28c4f69)](https://youtu.be/gMbB1fWZDHw)
 Click on above image to watch the demo or use this link https://youtu.be/gMbB1fWZDHw
 
 
@@ -32,7 +36,7 @@ Click on above image to watch the demo or use this link https://youtu.be/gMbB1fW
   pip install undetected-chromedriver pyautogui setuptools openai flask-cors flask
   ```
 3. Download and install latest version of [Google Chrome](https://www.google.com/chrome) in it's default location, visit https://www.google.com/chrome to download it's installer.
-4. Clone the current git repo or download it as a zip file, url to the latest update https://github.com/GodsScion/Auto_job_applier_linkedIn.
+4. Clone the current git repo or download it as a zip file, url to the latest update https://github.com/Knoxrover/ImTriedOfJustApplying.
 5. (Not needed if you set `stealth_mode = True` in `config/settings.py` ) Download and install the appropriate [Chrome Driver](https://googlechromelabs.github.io/chrome-for-testing/) for Google Chrome and paste it in the location Chrome was installed, visit https://googlechromelabs.github.io/chrome-for-testing/ to download.
   <br> <br>
   ***OR*** 
@@ -358,7 +362,7 @@ With heartfelt appreciation, <br>
 
 ## 📜 Disclaimer
 
-**This program is for educational purposes only. By downloading, using, copying, replicating, or interacting with this program or its code, you acknowledge and agree to abide by all the Terms, Conditions, Policies, and Licenses mentioned, which are subject to modification without prior notice. The responsibility of staying informed of any changes or updates bears upon yourself. For the latest Terms & Conditions, Licenses, or Policies, please refer to [Auto Job Applier](https://github.com/GodsScion/Auto_job_applier_linkedIn). Additionally, kindly adhere to and comply with LinkedIn's terms of service and policies pertaining to web scraping. Usage is at your own risk. The creators and contributors of this program emphasize that they bear no responsibility or liability for any misuse, damages, or legal consequences resulting from its usage.**
+**This program is for educational purposes only. By downloading, using, copying, replicating, or interacting with this program or its code, you acknowledge and agree to abide by all the Terms, Conditions, Policies, and Licenses mentioned, which are subject to modification without prior notice. The responsibility of staying informed of any changes or updates bears upon yourself. For the latest Terms & Conditions, Licenses, or Policies, please refer to [Auto Job Applier](https://github.com/vinayrajcheekoti/Auto_job_applier_linkedIn). Additionally, kindly adhere to and comply with LinkedIn's terms of service and policies pertaining to web scraping. Usage is at your own risk. The creators and contributors of this program emphasize that they bear no responsibility or liability for any misuse, damages, or legal consequences resulting from its usage.**
 
 
 ## 🏛️ Terms and Conditions

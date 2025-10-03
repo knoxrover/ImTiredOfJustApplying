@@ -1,13 +1,13 @@
 '''
-Author:     Sai Vignesh Golla
+Author:     Vinayraj Cheekoti
 LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
 
-Copyright (C) 2024 Sai Vignesh Golla
+Copyright (C) 2024 Vinayraj Cheekoti
 
 License:    GNU Affero General Public License
             https://www.gnu.org/licenses/agpl-3.0.en.html
             
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
+GitHub:     https://github.com/Knoxrover/ImTiredOfJustApplying
 
 '''
 
@@ -121,7 +121,7 @@ us_citizenship = "U.S. Citizen/Permanent Resident"
 
 
 # What is the link to your portfolio website, leave it empty as "", if you want to leave this question unanswered
-website = "https://github.com/GodsScion"                       # "www.example.bio" or "" and so on....
+website = "https://github.com/knoxrover"                       # "www.example.bio" or "" and so on....
 
 # What to enter in your desired salary question, only enter in numbers inside quotes as some companies only allow numbers
 desired_salary = "120000"          # "80000", "90000", "100000" or "120000" and so on....

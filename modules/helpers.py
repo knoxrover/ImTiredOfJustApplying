@@ -1,13 +1,13 @@
 '''
-Author:     Sai Vignesh Golla
+Author:     Vinayraj Cheekoti
 LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
 
-Copyright (C) 2024 Sai Vignesh Golla
+Copyright (C) 2024 Vinayraj Cheekoti
 
 License:    GNU Affero General Public License
             https://www.gnu.org/licenses/agpl-3.0.en.html
             
-GitHub:     https://github.com/GodsScion/Auto_job_applier_linkedIn
+GitHub:     https://github.com/Knoxrover/ImTiredOfJustApplying
 
 version:    24.12.29.12.30
 '''
